@@ -1,0 +1,16 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@400;600;700&display=swap');
+
+body {
+
+  margin: 0;
+
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  font-family: Mulish;
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: 0.4000000059604645px;
+
+}
